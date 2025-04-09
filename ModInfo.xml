@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="Another mod of Cell NPC Ruliod Utopia with a reimagining cells for any evolution level stage." displayName="Cell NPC Ruliod Utopia 2" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/vladjester2020/CellNPCRuliodUtopia2" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="CellNPCRuliodUtopia2" websiteUrl="https://github.com/vladjester2020/CellNPCRuliodUtopia2">
+  <prerequisite game="GalacticAdventures">Cell_NPC_Ruliod_Utopia_2_(Unfinished).package</prerequisite>
+</mod>
